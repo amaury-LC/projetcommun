@@ -1,3 +1,6 @@
+﻿<<<<<<< HEAD
+a-b-c-d-e-f
+=======
 ﻿a-b-c-d
 Un jour Dieu dit à Casto de ramer.
 
@@ -5,3 +8,4 @@ Et depuis, castorama
 
 mdr :) 
 
+>>>>>>> 58298fa9961771dad898ce3208e958f180d94ce2
